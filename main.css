@@ -1,0 +1,32 @@
+body {
+    background-color : white;
+}
+
+main {
+    text-align : center;
+}
+
+.title {
+    margin-right : 40px;
+}
+
+
+#timer span {
+    font-size : 35px;
+    margin-left : 5px;
+    margin-right : 5px;
+}
+
+#start {
+    margin-left : 60px;
+}
+
+#start,#stop,#reset {
+    width : 80px;
+    height : 40px;
+    font-weight : bold;
+}
+
+.can-not-push {
+  opacity: 0.4;
+}
